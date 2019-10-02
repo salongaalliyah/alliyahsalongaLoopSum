@@ -1,0 +1,15 @@
+C:\Users\VGD pc 2\source\repos\AlliyahSalonga.LoopSum.windows\bin\Debug\AlliyahSalonga.LoopSum.windows.exe.config
+C:\Users\VGD pc 2\source\repos\AlliyahSalonga.LoopSum.windows\bin\Debug\AlliyahSalonga.LoopSum.windows.exe
+C:\Users\VGD pc 2\source\repos\AlliyahSalonga.LoopSum.windows\bin\Debug\AlliyahSalonga.LoopSum.windows.pdb
+C:\Users\VGD pc 2\source\repos\AlliyahSalonga.LoopSum.windows\obj\Debug\AlliyahSalonga.LoopSum.windows.csprojAssemblyReference.cache
+C:\Users\VGD pc 2\source\repos\AlliyahSalonga.LoopSum.windows\obj\Debug\MainWindow.g.cs
+C:\Users\VGD pc 2\source\repos\AlliyahSalonga.LoopSum.windows\obj\Debug\App.g.cs
+C:\Users\VGD pc 2\source\repos\AlliyahSalonga.LoopSum.windows\obj\Debug\AlliyahSalonga.LoopSum.windows_MarkupCompile.cache
+C:\Users\VGD pc 2\source\repos\AlliyahSalonga.LoopSum.windows\obj\Debug\AlliyahSalonga.LoopSum.windows_MarkupCompile.lref
+C:\Users\VGD pc 2\source\repos\AlliyahSalonga.LoopSum.windows\obj\Debug\MainWindow.baml
+C:\Users\VGD pc 2\source\repos\AlliyahSalonga.LoopSum.windows\obj\Debug\AlliyahSalonga.LoopSum.windows.g.resources
+C:\Users\VGD pc 2\source\repos\AlliyahSalonga.LoopSum.windows\obj\Debug\AlliyahSalonga.LoopSum.windows.Properties.Resources.resources
+C:\Users\VGD pc 2\source\repos\AlliyahSalonga.LoopSum.windows\obj\Debug\AlliyahSalonga.LoopSum.windows.csproj.GenerateResource.cache
+C:\Users\VGD pc 2\source\repos\AlliyahSalonga.LoopSum.windows\obj\Debug\AlliyahSalonga.LoopSum.windows.csproj.CoreCompileInputs.cache
+C:\Users\VGD pc 2\source\repos\AlliyahSalonga.LoopSum.windows\obj\Debug\AlliyahSalonga.LoopSum.windows.exe
+C:\Users\VGD pc 2\source\repos\AlliyahSalonga.LoopSum.windows\obj\Debug\AlliyahSalonga.LoopSum.windows.pdb
